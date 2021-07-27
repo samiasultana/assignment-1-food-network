@@ -1,0 +1,92 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    color: rgb(88, 88, 88);
+}
+h1{
+font-size: 50px;
+}
+.color-text{
+    color: rgb(54, 54, 253);
+}
+a{
+    text-decoration: none;
+    padding: 15px 40px;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 30px;
+    color: rgb(245, 245, 245);
+    background-image: linear-gradient(90deg, rgb(19, 19, 22), rgb(110, 77, 228));
+    
+}
+.half-width{
+    width: 40%;
+    margin: 5%;
+    padding-bottom: 50px;
+}
+.half-width img{
+    width: 100%;
+    height: 100%;
+}
+.flexible-area{
+    display: flex;
+}
+.items{
+    width: 80%;
+    padding: 2%;
+    margin: 3%;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px rgb(216, 215, 215);
+    text-align: justify;
+
+}
+.items img{
+    width: 100%;
+    border-radius: 30px;
+    height: 200px;
+}
+.items h2{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+.about-me{
+background-image: url(images/Frame\ 57.jpg);
+}
+.about-me img{
+    width: 100%;
+}
+.recipes{
+    margin:  5%;
+}
+.recipe-texts{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 20px;
+    color: rgb(203, 235, 156);
+}
+footer h3{
+    font-size: 30px;
+}
+.followers{
+box-shadow: 10px 10px 50px rgb(182, 181, 181);
+margin: 10%;
+border-radius: 20px;
+}
+.followers .channel{
+    width: 30%;
+    padding:  2%;
+    color: black;
+    text-align: center;
+}
+
+.order-food{
+    background-image: linear-gradient(45deg, rgb(243, 217, 217), rgb(191, 191, 241));
+}
